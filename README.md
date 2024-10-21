@@ -5,6 +5,7 @@ _El enlace de descarga se puede encontrar [aquí](https://patontu.wixsite.com/ln
 
 
 ## Versiones Dev
+[dev-1.1](https://www.mediafire.com/file/comp3xurgun6tzc/dev-1.1.apk/file)
 
 # Versiones anteriores
 [dev-1.0](https://www.mediafire.com/file/0qhk9jgo47enj1p/dev-1.0.apk/file)
