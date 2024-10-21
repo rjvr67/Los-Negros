@@ -3,7 +3,7 @@
 Al reportar errores, realizar algún cambio, o al participar en este [GitHub](https://github.com/rjvr67/Los-Negros), aceptas que:
 - No discriminarás a otras personas por su raza étnica, creencias, edad, físico, o de cualquier otro tipo.
 - No distribuirás el enlace a este [GitHub](https://github.com/rjvr67/Los-Negros) sin el anterior permiso escrito del creador del repositorio (patontu@gmail.com)
-- No descargarás ningún archivo sin antes haber leído y comprendido los Términos para la descarga.
+- No descargarás ningún archivo sin antes haber leído, comprendido, y aceptado los Términos para la descarga.
 
 ## 2 - Convivencia
 - No amenazarás a nadie con ataque DDoS, doxxeos, IPloggers, etc.
